@@ -5,7 +5,7 @@ stages {
         
             steps {
                 echo 'Cleaning..'
-                deleteDir()
+                
             }
         }
         stage('Test') {
