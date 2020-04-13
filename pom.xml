@@ -37,9 +37,9 @@
                 <executions>
                     <execution>
                         <id>executable</id>
-                        <phase>package</phase>
+                        <phase>deploy</phase>
                         <goals>
-                            <goal>single</goal>
+                            <goal>deploy</goal>
                         </goals>
                     </execution>
                 </executions>
