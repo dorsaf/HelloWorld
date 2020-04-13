@@ -51,7 +51,7 @@
 		  <repository>
 			  <id>releases</id>
 			  <name>maven-releases</name>
-			  <url>http://192.168.1.40:8081/nexus/content/repositories/releases//</url>
+			  <url>http://192.168.1.40:8081/nexus/content/repositories/releases/</url>
 		  </repository>
 		  
 		  <snapshotRepository>
