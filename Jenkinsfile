@@ -12,7 +12,7 @@ stages {
         
             steps {
                 echo 'Testing..'
-                sh "mvn clean test"
+                sh 'mvn clean test'
                 
             }
         }
@@ -21,7 +21,7 @@ stages {
         
             steps {
                 echo 'Packaging..'
-                sh "mvn clean package"
+                sh 'mvn clean package'
                 
             }
         }
