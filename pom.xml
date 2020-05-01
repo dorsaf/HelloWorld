@@ -21,7 +21,6 @@
 	</dependencies>
 
 	<build>
-
 		<plugins>
 		      <plugin>
 			<!-- Build an executable JAR -->
@@ -37,9 +36,7 @@
 			</configuration>
 		      </plugin>
 		    </plugins>
-
 	</build>
 	
-	
-	
+
 </project>
